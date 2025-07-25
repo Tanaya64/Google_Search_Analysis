@@ -1,8 +1,8 @@
 # Google-Search-Analysis
 
-**Ankita Priya**  
+**Tanaya Deshpande**  
 
-*Pre-final year Computer Science undergrad @ B.I.T Mesra* 
+*Pre-final year Electronics and Telecommunication undergrad @ SGGSIE&T, Nanded* 
 
 ## Purpose 
 
